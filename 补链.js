@@ -2,11 +2,11 @@
  * @author 小熊
  * @name 补链
  * @origin 小熊
- * @version 1.0.2
+ * @version 1.0.3
  * @description 补链
  * @rule ^(补链|补)([\s\S]+)$
  * @priority 99999
- * @admin false
+ * @admin true
  * @disable false
  */
 
