@@ -2,9 +2,9 @@
  * @author 小熊
  * @name 补链
  * @origin 小熊
- * @version 1.0.1
+ * @version 1.0.2
  * @description 补链
- * @rule (补链|补)([\s\S]+)$
+ * @rule ^(补链|补)([\s\S]+)$
  * @priority 99999
  * @admin false
  * @disable false
